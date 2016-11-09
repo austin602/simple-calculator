@@ -1,0 +1,12 @@
+
+# ignore the nodejs modules.
+node_modules/
+
+#ignore the bower modules.
+public/lib/
+
+#ignore the typings directory.
+typings
+
+#ignore all javascript files.
+*.js

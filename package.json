@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/austin602/simple-calculator/issues"
   },
-  "homepage": "https://github.com/austin602/simple-calculator#readme"
+  "homepage": "https://github.com/austin602/simple-calculator#readme",
+  "dependencies": {
+    "json-server": "^0.8.23"
+  }
 }
